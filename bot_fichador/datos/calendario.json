@@ -1,0 +1,1446 @@
+{
+  "2025-07-07": [
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "00:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-13": [
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "00:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00",
+      "tarea": "Turno regular"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-01": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-03": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-04": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00",
+      "tarea": "Turno regular"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-05": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00",
+      "tarea": "Turno regular"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-06": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00",
+      "tarea": "Turno regular"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-08": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-10": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-11": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00",
+      "tarea": "Turno regular"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-12": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00",
+      "tarea": "Turno regular"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-14": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-15": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-17": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-18": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00",
+      "tarea": "Turno regular"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-19": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00",
+      "tarea": "Turno regular"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-20": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00",
+      "tarea": "Turno regular"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-21": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-22": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-24": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-25": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00",
+      "tarea": "Turno regular"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-26": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00",
+      "tarea": "Turno regular"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-27": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00",
+      "tarea": "Turno regular"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-28": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-29": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-31": [
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "8002770837",
+      "nombre": "🫀",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    },
+    {
+      "id": "5607347615",
+      "nombre": "Eduardo",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "20:00",
+      "hora_salida": "0:00"
+    },
+    {
+      "id": "8062445172",
+      "nombre": "Ana",
+      "hora_entrada": "21:00",
+      "hora_salida": "0:00",
+      "tarea": "Turno regular"
+    }
+  ],
+  "2025-07-02": [
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    }
+  ],
+  "2025-07-09": [
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    }
+  ],
+  "2025-07-16": [
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    }
+  ],
+  "2025-07-23": [
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    }
+  ],
+  "2025-07-30": [
+    {
+      "id": "6487791851",
+      "nombre": "Yub",
+      "hora_entrada": "12:00",
+      "hora_salida": "16:00"
+    }
+  ]
+}

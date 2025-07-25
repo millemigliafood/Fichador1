@@ -1,0 +1,8 @@
+Mille Miglia — Sistema de fichaje laboral
+
+1. Ejecutar autoarranque.bat para iniciar el bot
+2. El bot se comunica con los empleados por Telegram
+3. Los fichajes requieren autorización por ubicación geográfica
+4. Todos los datos se almacenan en la carpeta /datos
+
+Creado para el control horario de empleados en cocina, sala y barra.

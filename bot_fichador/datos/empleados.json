@@ -1,0 +1,62 @@
+{
+  "1110585143": {
+    "nombre": "A C 🦧❌🔪🦍",
+    "es_admin": true,
+    "funciones": [
+      "Camarero"
+    ],
+    "contrato_horas": 40,
+    "tipo_contrato": "Indefinido",
+    "horario": {}
+  },
+  "8002770837": {
+    "nombre": "🫀",
+    "es_admin": false,
+    "funciones": [
+      "Stiwart"
+    ],
+    "contrato_horas": 40,
+    "tipo_contrato": "Indefinido",
+    "horario": {}
+  },
+  "5607347615": {
+    "nombre": "Eduardo",
+    "es_admin": false,
+    "funciones": [
+      "Camarero"
+    ],
+    "contrato_horas": 40,
+    "tipo_contrato": "Indefinido",
+    "horario": {}
+  },
+  "6487791851": {
+    "nombre": "Yub",
+    "es_admin": false,
+    "funciones": [
+      "Camarero"
+    ],
+    "contrato_horas": 40,
+    "tipo_contrato": "Indefinido",
+    "horario": {}
+  },
+  "8062445172": {
+    "nombre": "ana Espinoza Garcia",
+    "es_admin": false,
+    "funciones": [
+      "Runner"
+    ],
+    "contrato_horas": 30,
+    "tipo_contrato": "Temporal",
+    "horario": {}
+  },
+  "6656164768": {
+    "nombre": "Diana",
+    "es_admin": false,
+    "funciones": [
+      "Cocinero"
+    ],
+    "contrato_horas": 40,
+    "tipo_contrato": "Indefinido",
+    "horario": {}
+  }
+}

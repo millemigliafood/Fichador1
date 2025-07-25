@@ -1,0 +1,771 @@
+[
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-04",
+    "hora_entrada": "20:00",
+    "hora_salida": "00:00"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-06",
+    "hora_entrada": "20:00",
+    "hora_salida": "00:03"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-06",
+    "hora_entrada": "21:00",
+    "hora_salida": "00:00"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-07",
+    "hora_entrada": "12:07",
+    "hora_salida": "16:07"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-07",
+    "hora_entrada": "13:00",
+    "hora_salida": "16:00"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-07",
+    "hora_entrada": "20:01",
+    "hora_salida": "00:00"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-07",
+    "hora_entrada": "20:00",
+    "hora_salida": "23:30"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-08",
+    "hora_entrada": "12:05",
+    "hora_salida": "16:00"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-08",
+    "hora_entrada": "11:00",
+    "hora_salida": "16:30"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-08",
+    "hora_entrada": "20:05",
+    "hora_salida": "23:59"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-08",
+    "hora_entrada": "20:00",
+    "hora_salida": "00:30"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-09",
+    "hora_entrada": "12:02",
+    "hora_salida": "16:06"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-09",
+    "hora_entrada": "20:00",
+    "hora_salida": "00:00"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-13",
+    "hora_entrada": "12:00",
+    "hora_salida": "16:19"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-13",
+    "hora_entrada": "11:01",
+    "hora_salida": "16:26"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-13",
+    "hora_entrada": "20:00",
+    "hora_salida": "00:00"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-13",
+    "hora_entrada": "21:00",
+    "hora_salida": "00:32"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-14",
+    "hora_entrada": "12:02",
+    "hora_salida": "16:20"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-14",
+    "hora_entrada": "11:01",
+    "hora_salida": "16:54"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-14",
+    "hora_entrada": "19:59",
+    "hora_salida": "23:56"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-14",
+    "hora_entrada": "20:57",
+    "hora_salida": "00:16"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-15",
+    "hora_entrada": "12:04",
+    "hora_salida": "16:19"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-15",
+    "hora_entrada": "19:59",
+    "hora_salida": "23:53"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-15",
+    "hora_entrada": "20:56",
+    "hora_salida": "23:57"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-16",
+    "hora_entrada": "12:04",
+    "hora_salida": "16:25"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-16",
+    "hora_entrada": "20:03",
+    "hora_salida": "23:48"
+  },
+  {
+    "id": "6487791851",
+    "nombre": "Yub",
+    "fecha": "2025-06-16",
+    "hora_entrada": "20:04",
+    "hora_salida": "23:48"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-17",
+    "hora_entrada": "20:02",
+    "hora_salida": "23:36"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-17",
+    "hora_entrada": "19:57",
+    "hora_salida": "23:43"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-18",
+    "hora_entrada": "18:03",
+    "hora_salida": "00:30"
+  },
+  {
+    "id": "5607347615",
+    "nombre": "Eduardo",
+    "fecha": "2025-06-18",
+    "hora_entrada": "17:58",
+    "hora_salida": "00:13"
+  },
+  {
+    "id": "5607347615",
+    "nombre": "Eduardo",
+    "fecha": "2025-06-19",
+    "hora_entrada": "10:34",
+    "hora_salida": "16:04"
+  },
+  {
+    "id": "6487791851",
+    "nombre": "Yub",
+    "fecha": "2025-06-19",
+    "hora_entrada": "12:02",
+    "hora_salida": "16:07"
+  },
+  {
+    "id": "5607347615",
+    "nombre": "Eduardo",
+    "fecha": "2025-06-19",
+    "hora_entrada": "18:02",
+    "hora_salida": "00:29"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-19",
+    "hora_entrada": "17:50",
+    "hora_salida": "00:46"
+  },
+  {
+    "id": "6487791851",
+    "nombre": "Yub",
+    "fecha": "2025-06-19",
+    "hora_entrada": "20:01",
+    "hora_salida": "00:37"
+  },
+  {
+    "id": "5607347615",
+    "nombre": "Eduardo",
+    "fecha": "2025-06-20",
+    "hora_entrada": "11:00",
+    "hora_salida": "17:00"
+  },
+  {
+    "id": "6487791851",
+    "nombre": "Yub",
+    "fecha": "2025-06-20",
+    "hora_entrada": "11:00",
+    "hora_salida": "17:00"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-20",
+    "hora_entrada": "11:00",
+    "hora_salida": "17:00"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-20",
+    "hora_entrada": "11:00",
+    "hora_salida": "17:00"
+  },
+  {
+    "id": "5607347615",
+    "nombre": "Eduardo",
+    "fecha": "2025-06-21",
+    "hora_entrada": "11:30",
+    "hora_salida": "15:26"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-21",
+    "hora_entrada": "11:32",
+    "hora_salida": "15:28"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-21",
+    "hora_entrada": "12:00",
+    "hora_salida": "15:25"
+  },
+  {
+    "id": "6487791851",
+    "nombre": "Yub",
+    "fecha": "2025-06-21",
+    "hora_entrada": "12:08",
+    "hora_salida": "15:31"
+  },
+  {
+    "id": "5607347615",
+    "nombre": "Eduardo",
+    "fecha": "2025-06-21",
+    "hora_entrada": "19:22",
+    "hora_salida": "00:16"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-21",
+    "hora_entrada": "19:30",
+    "hora_salida": "00:33"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-21",
+    "hora_entrada": "19:33",
+    "hora_salida": "00:14"
+  },
+  {
+    "id": "6487791851",
+    "nombre": "Yub",
+    "fecha": "2025-06-21",
+    "hora_entrada": "19:56",
+    "hora_salida": "00:28"
+  },
+  {
+    "id": "5607347615",
+    "nombre": "Eduardo",
+    "fecha": "2025-06-22",
+    "hora_entrada": "11:56",
+    "hora_salida": "16:19"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-22",
+    "hora_entrada": "12:00",
+    "hora_salida": "16:02"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-22",
+    "hora_entrada": "12:02",
+    "hora_salida": "16:15"
+  },
+  {
+    "id": "6487791851",
+    "nombre": "Yub",
+    "fecha": "2025-06-22",
+    "hora_entrada": "12:04",
+    "hora_salida": "16:44"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-22",
+    "hora_entrada": "20:00",
+    "hora_salida": "00:10"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-22",
+    "hora_entrada": "20:02",
+    "hora_salida": "23:51"
+  },
+  {
+    "id": "6487791851",
+    "nombre": "Yub",
+    "fecha": "2025-06-22",
+    "hora_entrada": "19:59",
+    "hora_salida": "23:54"
+  },
+  {
+    "id": "5607347615",
+    "nombre": "Eduardo",
+    "fecha": "2025-06-22",
+    "hora_entrada": "19:58",
+    "hora_salida": "00:13"
+  },
+  {
+    "id": "6487791851",
+    "nombre": "Yub",
+    "fecha": "2025-06-23",
+    "hora_entrada": "11:55",
+    "hora_salida": "16:18"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-23",
+    "hora_entrada": "11:58",
+    "hora_salida": "16:06"
+  },
+  {
+    "id": "6487791851",
+    "nombre": "Yub",
+    "fecha": "2025-06-23",
+    "hora_entrada": "19:53",
+    "hora_salida": "00:13"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-23",
+    "hora_entrada": "20:01",
+    "hora_salida": "00:05"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-23",
+    "hora_entrada": "20:01",
+    "hora_salida": "23:56"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-24",
+    "hora_entrada": "20:04",
+    "hora_salida": "00:19"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-24",
+    "hora_entrada": "20:00",
+    "hora_salida": "00:46"
+  },
+  {
+    "id": "5607347615",
+    "nombre": "Eduardo",
+    "fecha": "2025-06-24",
+    "hora_entrada": "18:58",
+    "hora_salida": "00:30"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-06-25",
+    "hora_entrada": "20:02",
+    "hora_salida": "23:51"
+  },
+  {
+    "id": "6487791851",
+    "nombre": "Yub",
+    "fecha": "2025-06-25",
+    "hora_entrada": "19:58",
+    "hora_salida": "00:40"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-25",
+    "hora_entrada": "17:59",
+    "hora_salida": "00:38"
+  },
+  {
+    "id": "5607347615",
+    "nombre": "Eduardo",
+    "fecha": "2025-06-25",
+    "hora_entrada": "18:00",
+    "hora_salida": "23:59"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-26",
+    "hora_entrada": "12:00",
+    "hora_salida": "16:30"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-26",
+    "hora_entrada": "20:00",
+    "hora_salida": "00:30"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-27",
+    "hora_entrada": "11:00",
+    "hora_salida": "16:30"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-06-27",
+    "hora_entrada": "19:00",
+    "hora_salida": "00:30"
+  },
+  {
+    "id": "1110585143",
+    "nombre": "A C 🦧❌🔪🦍",
+    "fecha": "2025-07-03",
+    "hora_entrada": "11:30",
+    "hora_salida": "10:59"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-07-03",
+    "hora_entrada": "12:00"
+  },
+  {
+    "id": "6487791851",
+    "nombre": "Yub",
+    "fecha": "2025-07-03",
+    "hora_entrada": "12:00",
+    "hora_salida": "16:07:38"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-07-04",
+    "hora_entrada": "12:00",
+    "hora_salida": "16:00",
+    "observaciones": "Primer día de baja médica"
+  },
+  {
+    "id": "6656164768",
+    "nombre": "Diana",
+    "fecha": "2025-07-05",
+    "hora_entrada": "12:01",
+    "hora_salida": "15:57"
+  },
+  {
+    "id": "5607347615",
+    "nombre": "Eduardo",
+    "fecha": "2025-07-05",
+    "hora_entrada": "12:34",
+    "hora_salida": "16:03"
+  },
+  {
+    "id": "6487791851",
+    "nombre": "Yub",
+    "fecha": "2025-07-05",
+    "hora_salida": "16:03"
+  },
+  {
+    "id": "6487791851",
+    "nombre": "Yub",
+    "fecha": "2025-07-07",
+    "hora_entrada": "12:00",
+    "hora_salida": "16:00"
+  },
+  {
+    "id": "6487791851",
+    "nombre": "Yub",
+    "fecha": "2025-07-07",
+    "hora_entrada": "20:00",
+    "hora_salida": "23:57"
+  },
+  {
+    "id": "6487791851",
+    "nombre": "Yub",
+    "fecha": "2025-07-08",
+    "hora_entrada": "20:00",
+    "hora_salida": "23:30"
+  },
+  {
+    "id": "6487791851",
+    "nombre": "Yub",
+    "fecha": "2025-07-11",
+    "hora_entrada": "11:52:14",
+    "lat": 42.571826,
+    "lon": -0.548919,
+    "hora_salida": "18:00:00"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-07-11",
+    "hora_entrada": "12:00:04",
+    "lat": 42.571712,
+    "lon": -0.548886,
+    "hora_salida": "18:30:00"
+  },
+  {
+    "id": "8062445172",
+    "nombre": "Ana Espinoza García",
+    "fecha": "2025-07-11",
+    "hora_entrada": "13:10:39",
+    "lat": 42.571712,
+    "lon": -0.548886,
+    "hora_salida": "16:07:58"
+  },
+  {
+    "id": "6487791851",
+    "nombre": "Yub",
+    "fecha": "2025-07-11",
+    "hora_entrada": "19:47:54",
+    "lat": 42.571826,
+    "lon": -0.54895,
+    "hora_salida": "23:51:50"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-07-11",
+    "hora_entrada": "19:31:06",
+    "lat": 42.571782,
+    "lon": -0.548732,
+    "hora_salida": "00:21:06"
+  },
+  {
+    "id": "8062445172",
+    "nombre": "Ana Espinoza García",
+    "fecha": "2025-07-11",
+    "hora_entrada": "20:02:39",
+    "lat": 42.571712,
+    "lon": -0.548886,
+    "hora_salida": "23:49:56"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-07-12",
+    "hora_entrada": "11:01:29",
+    "lat": 42.57169,
+    "lon": -0.548793,
+    "hora_salida": "15:58:52"
+  },
+  {
+    "id": "5607347615",
+    "nombre": "Eduardo",
+    "fecha": "2025-07-12",
+    "hora_entrada": "11:07:41",
+    "lat": 42.571918,
+    "lon": -0.548951,
+    "hora_salida": "16:07:42"
+  },
+  {
+    "id": "8062445172",
+    "nombre": "Ana Espinoza García",
+    "fecha": "2025-07-12",
+    "hora_entrada": "13:10:39",
+    "lat": 42.571712,
+    "lon": -0.548886,
+    "hora_salida": "16:07:58"
+  },
+  {
+    "id": "5607347615",
+    "nombre": "Eduardo",
+    "fecha": "2025-07-12",
+    "hora_entrada": "19:55:32",
+    "lat": 42.571804,
+    "lon": -0.548794,
+    "hora_salida": "23:48:45"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-07-12",
+    "hora_entrada": "19:59:29",
+    "lat": 42.57169,
+    "lon": -0.548793,
+    "hora_salida": "23:58:52"
+  },
+  {
+    "id": "6487791851",
+    "nombre": "Yub",
+    "fecha": "2025-07-12",
+    "hora_entrada": "19:57:54",
+    "lat": 42.571826,
+    "lon": -0.54895,
+    "hora_salida": "23:51:50"
+  },
+  {
+    "id": "8062445172",
+    "nombre": "Ana Espinoza García",
+    "fecha": "2025-07-12",
+    "hora_entrada": "20:08:59",
+    "lat": 42.571712,
+    "lon": -0.548886,
+    "hora_salida": "23:50:56"
+  },
+  {
+    "id": "5607347615",
+    "nombre": "Eduardo",
+    "fecha": "2025-07-13",
+    "hora_entrada": "11:00:01",
+    "lat": 42.571872,
+    "lon": -0.54892,
+    "hora_salida": "16:25:20"
+  },
+  {
+    "id": "6487791851",
+    "nombre": "Yub",
+    "fecha": "2025-07-13",
+    "hora_entrada": "12:04:38",
+    "lat": 42.571484,
+    "lon": -0.54879,
+    "hora_salida": "16:25:48"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-07-12",
+    "hora_entrada": "11:00",
+    "hora_salida": "16:00",
+    "fecha_salida": null
+  },
+  {
+    "id": "8062445172",
+    "nombre": "ana Espinoza Garcia",
+    "fecha": "2025-07-13",
+    "hora_entrada": "13:01:29",
+    "lat": 42.571712,
+    "lon": -0.548886,
+    "hora_salida": "16:26:08"
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2024-07-13",
+    "hora_entrada": "11:00",
+    "hora_salida": "16:30",
+    "fecha_salida": null
+  },
+  {
+    "id": "6487791851",
+    "nombre": "Yub",
+    "fecha": "2025-07-13",
+    "hora_entrada": "19:49:30",
+    "lat": 42.571826,
+    "lon": -0.548919,
+    "hora_salida": null
+  },
+  {
+    "id": "5607347615",
+    "nombre": "Eduardo",
+    "fecha": "2025-07-13",
+    "hora_entrada": "19:57:06",
+    "lat": 42.571849,
+    "lon": -0.54895,
+    "hora_salida": null
+  },
+  {
+    "id": "8062445172",
+    "nombre": "ana Espinoza Garcia",
+    "fecha": "2025-07-13",
+    "hora_entrada": "20:00:33",
+    "lat": 42.571712,
+    "lon": -0.548886,
+    "hora_salida": null
+  },
+  {
+    "id": "8002770837",
+    "nombre": "🫀",
+    "fecha": "2025-07-13",
+    "hora_entrada": "20:00:47",
+    "lat": 42.571804,
+    "lon": -0.548794,
+    "hora_salida": "23:27:37"
+  }
+]
